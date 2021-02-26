@@ -1,0 +1,15 @@
+version: 1.0
+
+no-player: Please run this command In-Game
+no-permission: Sorry! You don't have this permission
+not-found: I can't find this player
+
+self-success-gm3: Your gamemode has been changed to spectator mode
+self-success-gm2: Your gamemode has been changed to adventure mode
+self-success-gm1: Your gamemode has been changed to creative mode 
+self-success-gm0: Your gamemode has been changed to survival mode
+
+#You can use %tar_name and %send_name for the target and sender names
+success-sender-mess: You successfully changed the gamemode of %tar_name
+
+success-tar-mess: Your gamemode has been changed

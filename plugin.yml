@@ -1,0 +1,35 @@
+---
+name: ShortCommands
+version: 1.0.0
+main: Julicraft_44\ShortCommands\Main
+api: 3.0.0
+author: Julicraft_44
+
+commands:
+    gm0:
+        description: Set you in survival mode
+        permission: sc.gm0
+    gm1:
+        description: Set you in creative mode
+        permission: sc.gm1
+    gm2:
+        description: Set you in adventure mode
+        permission: sc.gm2
+    gm3: 
+        description: Set you in spectator mode
+        permission: sc.gm3
+        
+permissions:
+    sc.gm0:
+        description: ShortCommands gm0 permission
+        default: OP
+    sc.gm1:
+        description: ShortCommands gm1 permission
+        default: OP
+    sc.gm2:
+        description: ShortCommands gm2 permission
+        default: OP
+    sc.gm3:
+        description: ShortCommands gm3 permission
+        default: OP
+...
